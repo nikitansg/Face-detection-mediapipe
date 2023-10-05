@@ -47,7 +47,7 @@ and landmark tracking.
 
 ## left and right eyebrows
 ![image](https://github.com/nikitansg/Face-detection-mediapipe/assets/138892560/62714769-09af-44c7-be58-eebe7a178927)
-![image](https://github.com/nikitansg/Face-detection-mediapipe/assets/138892560/fbdbb49d-8327-4082-bc33-8c5a9fc5ab8d)
+![image](https://github.com/nikitansg/Face-detection-mediapipe/assets/138892560/584f14e2-7795-4106-acd3-39c1e3cf2261)
 
 ## Tessellation
 ![image](https://github.com/nikitansg/Face-detection-mediapipe/assets/138892560/0f7a0f54-aa68-486b-81e5-254cb194d520)
